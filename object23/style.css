@@ -1,0 +1,50 @@
+/*
+Theme Name: Object23
+Description: le theme pour la newsletter du blog d'object23
+Author: CyberFufu
+Author URI: http://www.object23.fr/
+Author Email: cjavelle@adista.fr
+Tags: black, space
+
+Note: the styles below offer all the possibilities of Wysija. The plugin won't recognize any additional styles if you add them.
+
+*/
+html {
+    background-color: #12191f; /* cannot be transparent and will default to white */
+}
+
+header {
+    background-color: #12191f; /* can be transparent */
+}
+body {
+    color:#5f798e;
+    font-family: "Georgia", serif;
+    font-size: 18px;
+    background-color: #12191f; /* can be transparent */
+}
+footer {
+    background-color: #12191f; /* can be transparent */
+}
+h1 {
+    color: #FFFFFF;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+h2 {
+    color: #FFFFFF;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 30px;
+}
+h3 {
+    color: #FFFFFF;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 24px;
+}
+a {
+    color: #FFFFFF;
+    text-decoration:underline;
+}
+unsubscribe {
+    color:#5f798e;
+}
